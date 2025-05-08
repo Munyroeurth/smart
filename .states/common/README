@@ -1,0 +1,7 @@
+TRIỂN KHÁI NHIỀU DỰ ÁN CÙNG MODULE :
+1. git clone HTTPS của git ==>  which branch need to clone
+2. git checkout -b name ==> đặt tên branch
+3. edit code
+4.git init ==> để kiểm tra xem code mình đã edit có những file nào
+5.git commit -m name ==> tên commit của mình
+6.git push origin
